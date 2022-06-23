@@ -1,0 +1,7 @@
+python-dotenv==0.19.2
+autopep8==1.6.0
+requests==2.27.1
+
+discord.py==1.7.3
+tweepy==4.6.0
+aiohttp==3.7.4.post0
